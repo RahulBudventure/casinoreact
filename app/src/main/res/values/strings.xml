@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewSkedit</string>
+    <string name="accessibility_service_label">NewSkedit</string>
+    <string name="whatsapp_suffix">Sent by NewSkedit</string>
+</resources>
